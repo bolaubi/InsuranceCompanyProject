@@ -100,35 +100,35 @@ Photo by [Medienstürmer](https://unsplash.com/@medienstuermer) on [Unsplash](ht
 
 These are some of the results from the project. Please check the presentation as well as the notebook files for in-depth explanations.
 
-![InsuranceCompanyProject_Page_01](C:\Users\idben\PycharmProjects\github_benedictlaiman\github_insuranceCompany\pic\InsuranceCompanyProject_Page_01.jpg)
+![InsuranceCompanyProject_Page_01](pic\InsuranceCompanyProject_Page_01.jpg)
 
 <hr>
 
-![InsuranceCompanyProject_Page_02](C:\Users\idben\PycharmProjects\github_benedictlaiman\github_insuranceCompany\pic\InsuranceCompanyProject_Page_02.jpg)
+![InsuranceCompanyProject_Page_02](pic\InsuranceCompanyProject_Page_02.jpg)
 
 <hr>
 
-![InsuranceCompanyProject_Page_05](C:\Users\idben\PycharmProjects\github_benedictlaiman\github_insuranceCompany\pic\InsuranceCompanyProject_Page_05.jpg)
+![InsuranceCompanyProject_Page_05](pic\InsuranceCompanyProject_Page_05.jpg)
 
 <hr>
 
-![InsuranceCompanyProject_Page_07](C:\Users\idben\PycharmProjects\github_benedictlaiman\github_insuranceCompany\pic\InsuranceCompanyProject_Page_07.jpg)
+![InsuranceCompanyProject_Page_07](pic\InsuranceCompanyProject_Page_07.jpg)
 
 <hr>
 
-![InsuranceCompanyProject_Page_08](C:\Users\idben\PycharmProjects\github_benedictlaiman\github_insuranceCompany\pic\InsuranceCompanyProject_Page_08.jpg)
+![InsuranceCompanyProject_Page_08](pic\InsuranceCompanyProject_Page_08.jpg)
 
 <hr>
 
-![InsuranceCompanyProject_Page_09](C:\Users\idben\PycharmProjects\github_benedictlaiman\github_insuranceCompany\pic\InsuranceCompanyProject_Page_09.jpg)
+![InsuranceCompanyProject_Page_09](pic\InsuranceCompanyProject_Page_09.jpg)
 
 <hr>
 
-![InsuranceCompanyProject_Page_11](C:\Users\idben\PycharmProjects\github_benedictlaiman\github_insuranceCompany\pic\InsuranceCompanyProject_Page_11.jpg)
+![InsuranceCompanyProject_Page_11](pic\InsuranceCompanyProject_Page_11.jpg)
 
 <hr>
 
-![InsuranceCompanyProject_Page_16](C:\Users\idben\PycharmProjects\github_benedictlaiman\github_insuranceCompany\pic\InsuranceCompanyProject_Page_16.jpg)
+![InsuranceCompanyProject_Page_16](pic\InsuranceCompanyProject_Page_16.jpg)
 
 <hr>
 
