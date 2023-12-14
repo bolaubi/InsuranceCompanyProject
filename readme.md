@@ -65,17 +65,18 @@ Photo by [Medienstürmer](https://unsplash.com/@medienstuermer) on [Unsplash](ht
 
 ## 03: Introduction
 
-***The primary goals of the project are as follows:***
+***This comprehensive project includes:***
 
-1. Create a machine learning model to assist in **selecting potential customers**.
+1.  **Preprocessed the raw data,** which includes data cleaning and feature engineering (combining, shaping, generating new features), and **extracted insights** from the data. 
 
-2. Develop a **recommendation engine** for new customers who share similar characteristics.
+2. **Developed machine learning models** for various objectives:
 
-3. **Segment customers** based on their existing policies.
-
-4. Extract **insights** from a given dataset.
+   - **Reduced marketing and sales expense by 220% and increased revenue by 103%** through the creation of a classifier model to assist in selecting potential customers.
+   - **Developed a recommendation engine for a new customers** who share similar characteristics using KNN & cosine distance as well as Pearson Correlation.
+   - **Assisted the marketing team in tailoring their strategies** by creating a refined customer segmentation based on product (insurance plan) and premium amount.
 
    
+
 
 ***Dataset Description:***
 
