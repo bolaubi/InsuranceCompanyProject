@@ -135,11 +135,7 @@ These are some of the results from the project. Please check the presentation as
 
 ## 05: Profile
 
-© Benedict Laiman 2023
 
-Get in touch with me through:
-
-- [Linkedin](https://www.linkedin.com/in/benedictlaiman)
 - [Discord](https://discordapp.com/users/525654231940857867/)
 
 
